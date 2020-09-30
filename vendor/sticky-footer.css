@@ -1,0 +1,18 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+/* 
+    .container#footer {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+  } */
+
+  footer {
+    justify-content: center;
+    width: auto;
+    height: 150px;
+    width: auto;
+    padding: 0 15px;
+  }
+  
